@@ -1,0 +1,31 @@
+{
+  "name": "sudoku-solver",
+  "version": "0.0.0",
+  "description": "Automatic sudoku solver with typescript",
+  "keywords": [
+    "sudoku"
+  ],
+  "homepage": "https://github.com/nickzoum/Sudoku-Solver#readme",
+  "bugs": {
+    "url": "https://github.com/nickzoum/Sudoku-Solver/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickzoum/Sudoku-Solver.git"
+  },
+  "license": "ISC",
+  "author": "nickzoum",
+  "type": "commonjs",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.35.0",
+    "eslint": "^9.35.0",
+    "jest": "^29.7.0",
+    "jiti": "^2.5.1",
+    "typescript-eslint": "^8.43.0"
+  }
+}

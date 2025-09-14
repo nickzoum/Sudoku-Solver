@@ -1,0 +1,20 @@
+# macOS settings file 
+.DS_Store
+
+# Contains all your dependencies
+node_modules
+
+# Npm debug log
+npm-debug.log*
+
+# Replace as required with your build location
+/build
+
+# Deal with environment files
+.env.*
+
+# Coverage directory used by testing tools
+coverage
+
+# Visual Studio Code configuration
+.vscode/
